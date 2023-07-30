@@ -1,2 +1,2 @@
 # RePub
-The epub reader of windows.
+A ePub reader of everyone
